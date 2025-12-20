@@ -1,2 +1,3 @@
-# ITI-DataManagement-Hub
-Central hub for all labs, projects, and assignments I have done during ITI 9-month Data Management Track.
+# ITI-DataManagement-Hub (DO NOT OPEN IT IF UR STILL ITI STUDENT!!)
+Central hub for all labs, projects, and assignments completed during my 9-month ITI Data Management Track journey.  
+This repository is organized to provide a clean overview of courses, labs, and projects for efficient navigation and reference.
