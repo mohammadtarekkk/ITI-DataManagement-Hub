@@ -33,6 +33,7 @@ Here are the various projects developed to consolidate learning and practice rea
 
 - [**Advanced PLSQL Project**](./Projects/Advanced%20PLSQL/README.md)
 - [**Analytical SQL Project**](./Projects/Analytical%20SQL/README.md)
-- [**Hadoop Project**](./Projects/Hadoop/README.md)
-- [**Java 1 Project**](./Projects/Java1/README.md)
-- [**Java 2 Project**](./Projects/Java2/README.md)
+- [**Hadoop Project**](https://github.com/mohammadtarekkk/mini-hadoop-cluster/tree/patch1-5nodes)
+- [**Java 1 Project**](https://github.com/mohammadtarekkk/PaintGUI-Java1)
+- [**Java 2 Project**](https://github.com/AhmedWaheedM/I-Wish)
+- [**Bash Scripting**](https://github.com/mohammadtarekkk/Zen-DBMS-Bash)
