@@ -31,7 +31,7 @@ Practical lab solutions for each course:
 
 Here are the various projects developed to consolidate learning and practice real-world scenarios:
 
-- [**Advanced PLSQL Project**](./Projects/Advanced%20PLSQL/README.md)
+- [**Advanced PLSQL Project**](https://github.com/mohammadtarekkk/PLSQL-FM)
 - [**Analytical SQL Project**](./Projects/Analytical%20SQL/README.md)
 - [**Hadoop Project**](https://github.com/mohammadtarekkk/mini-hadoop-cluster/tree/patch1-5nodes)
 - [**Java 1 Project**](https://github.com/mohammadtarekkk/PaintGUI-Java1)
