@@ -1,0 +1,3502 @@
+[
+  {
+    "order_id": "ORD0001",
+    "customer_id": "C029",
+    "order_date": "2024-03-20",
+    "amount": 70.96,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0002",
+    "customer_id": "C045",
+    "order_date": "2024-01-01",
+    "amount": 281.02,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0003",
+    "customer_id": "C017",
+    "order_date": "2024-07-04",
+    "amount": 165.81,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0004",
+    "customer_id": "C032",
+    "order_date": "2024-01-15",
+    "amount": 472.76,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0005",
+    "customer_id": "C013",
+    "order_date": "2024-09-19",
+    "amount": 266.03,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0006",
+    "customer_id": "C002",
+    "order_date": "2024-08-23",
+    "amount": 57.96,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0007",
+    "customer_id": "C022",
+    "order_date": "2024-04-11",
+    "amount": 229.98,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0008",
+    "customer_id": "C044",
+    "order_date": "2024-09-04",
+    "amount": 357.75,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0009",
+    "customer_id": "C040",
+    "order_date": "2024-01-19",
+    "amount": 499.39,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0010",
+    "customer_id": "C022",
+    "order_date": "2024-03-16",
+    "amount": 95.52,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0011",
+    "customer_id": "C021",
+    "order_date": "2024-02-24",
+    "amount": 282.94,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0012",
+    "customer_id": "C049",
+    "order_date": "2024-11-30",
+    "amount": 261.85,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0013",
+    "customer_id": "C042",
+    "order_date": "2024-04-25",
+    "amount": 469.69,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0014",
+    "customer_id": "C010",
+    "order_date": "2024-11-04",
+    "amount": 368.03,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0015",
+    "customer_id": "C015",
+    "order_date": "2024-01-06",
+    "amount": 188.84,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0016",
+    "customer_id": "C045",
+    "order_date": "2024-03-19",
+    "amount": 161.45,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0017",
+    "customer_id": "C037",
+    "order_date": "2024-02-08",
+    "amount": 261.85,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0018",
+    "customer_id": "C005",
+    "order_date": "2024-04-15",
+    "amount": 266.48,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0019",
+    "customer_id": "C006",
+    "order_date": "2024-12-14",
+    "amount": 130.02,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0020",
+    "customer_id": "C018",
+    "order_date": "2024-07-10",
+    "amount": 401.46,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0021",
+    "customer_id": "C048",
+    "order_date": "2024-08-12",
+    "amount": 123.28,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0022",
+    "customer_id": "C030",
+    "order_date": "2024-06-29",
+    "amount": 243.2,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0023",
+    "customer_id": "C015",
+    "order_date": "2024-07-16",
+    "amount": 207.33,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0024",
+    "customer_id": "C048",
+    "order_date": "2024-06-30",
+    "amount": 471.78,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0025",
+    "customer_id": "C040",
+    "order_date": "2024-04-23",
+    "amount": 253.69,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0026",
+    "customer_id": "C031",
+    "order_date": "2024-07-17",
+    "amount": 20.9,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0027",
+    "customer_id": "C026",
+    "order_date": "2024-12-04",
+    "amount": 178.71,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0028",
+    "customer_id": "C022",
+    "order_date": "2024-02-27",
+    "amount": 428.75,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0029",
+    "customer_id": "C047",
+    "order_date": "2024-06-03",
+    "amount": 472.51,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0030",
+    "customer_id": "C036",
+    "order_date": "2024-04-17",
+    "amount": 175.25,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0031",
+    "customer_id": "C015",
+    "order_date": "2024-11-01",
+    "amount": 247.81,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0032",
+    "customer_id": "C007",
+    "order_date": "2024-07-28",
+    "amount": 314.2,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0033",
+    "customer_id": "C012",
+    "order_date": "2024-01-04",
+    "amount": 205.16,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0034",
+    "customer_id": "C032",
+    "order_date": "2024-04-20",
+    "amount": 492.25,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0035",
+    "customer_id": "C044",
+    "order_date": "2024-02-02",
+    "amount": 291.28,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0036",
+    "customer_id": "C043",
+    "order_date": "2024-04-09",
+    "amount": 109.83,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0037",
+    "customer_id": "C004",
+    "order_date": "2024-09-13",
+    "amount": 256.75,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0038",
+    "customer_id": "C035",
+    "order_date": "2024-06-26",
+    "amount": 183.45,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0039",
+    "customer_id": "C031",
+    "order_date": "2024-12-17",
+    "amount": 135.49,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0040",
+    "customer_id": "C011",
+    "order_date": "2024-01-10",
+    "amount": 334.55,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0041",
+    "customer_id": "C008",
+    "order_date": "2024-06-21",
+    "amount": 329.5,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0042",
+    "customer_id": "C046",
+    "order_date": "2024-07-15",
+    "amount": 307.05,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0043",
+    "customer_id": "C007",
+    "order_date": "2024-03-31",
+    "amount": 426.75,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0044",
+    "customer_id": "C028",
+    "order_date": "2024-03-13",
+    "amount": 445.43,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0045",
+    "customer_id": "C011",
+    "order_date": "2024-03-25",
+    "amount": 259.49,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0046",
+    "customer_id": "C034",
+    "order_date": "2024-05-08",
+    "amount": 80.05,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0047",
+    "customer_id": "C009",
+    "order_date": "2024-02-16",
+    "amount": 290.02,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0048",
+    "customer_id": "C001",
+    "order_date": "2024-01-15",
+    "amount": 194.55,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0049",
+    "customer_id": "C024",
+    "order_date": "2024-05-21",
+    "amount": 371.68,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0050",
+    "customer_id": "C030",
+    "order_date": "2024-06-06",
+    "amount": 296.29,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0051",
+    "customer_id": "C043",
+    "order_date": "2024-04-15",
+    "amount": 72.69,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0052",
+    "customer_id": "C017",
+    "order_date": "2024-10-14",
+    "amount": 127.66,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0053",
+    "customer_id": "C002",
+    "order_date": "2024-10-01",
+    "amount": 428.34,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0054",
+    "customer_id": "C040",
+    "order_date": "2024-06-26",
+    "amount": 96.86,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0055",
+    "customer_id": "C016",
+    "order_date": "2024-12-01",
+    "amount": 45.46,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0056",
+    "customer_id": "C040",
+    "order_date": "2024-08-22",
+    "amount": 238.24,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0057",
+    "customer_id": "C045",
+    "order_date": "2024-07-18",
+    "amount": 338.04,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0058",
+    "customer_id": "C018",
+    "order_date": "2024-03-06",
+    "amount": 46.11,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0059",
+    "customer_id": "C045",
+    "order_date": "2024-05-24",
+    "amount": 253.54,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0060",
+    "customer_id": "C008",
+    "order_date": "2024-09-29",
+    "amount": 491.34,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0061",
+    "customer_id": "C041",
+    "order_date": "2024-06-10",
+    "amount": 49.33,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0062",
+    "customer_id": "C050",
+    "order_date": "2024-03-24",
+    "amount": 47.11,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0063",
+    "customer_id": "C017",
+    "order_date": "2024-03-10",
+    "amount": 148.29,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0064",
+    "customer_id": "C002",
+    "order_date": "2024-03-10",
+    "amount": 241.14,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0065",
+    "customer_id": "C022",
+    "order_date": "2024-08-07",
+    "amount": 83.43,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0066",
+    "customer_id": "C032",
+    "order_date": "2024-06-09",
+    "amount": 352.43,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0067",
+    "customer_id": "C038",
+    "order_date": "2024-09-04",
+    "amount": 48.43,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0068",
+    "customer_id": "C043",
+    "order_date": "2024-06-17",
+    "amount": 258.71,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0069",
+    "customer_id": "C026",
+    "order_date": "2024-07-05",
+    "amount": 117.53,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0070",
+    "customer_id": "C026",
+    "order_date": "2024-01-23",
+    "amount": 258.37,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0071",
+    "customer_id": "C003",
+    "order_date": "2024-02-08",
+    "amount": 178.39,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0072",
+    "customer_id": "C039",
+    "order_date": "2024-02-08",
+    "amount": 445.77,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0073",
+    "customer_id": "C007",
+    "order_date": "2024-05-03",
+    "amount": 190.32,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0074",
+    "customer_id": "C045",
+    "order_date": "2024-05-23",
+    "amount": 340.93,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0075",
+    "customer_id": "C035",
+    "order_date": "2024-01-02",
+    "amount": 87.52,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0076",
+    "customer_id": "C002",
+    "order_date": "2024-03-01",
+    "amount": 141.51,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0077",
+    "customer_id": "C024",
+    "order_date": "2024-02-03",
+    "amount": 248.87,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0078",
+    "customer_id": "C031",
+    "order_date": "2024-03-06",
+    "amount": 79.49,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0079",
+    "customer_id": "C024",
+    "order_date": "2024-06-04",
+    "amount": 119.11,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0080",
+    "customer_id": "C017",
+    "order_date": "2024-02-22",
+    "amount": 384.76,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0081",
+    "customer_id": "C032",
+    "order_date": "2024-05-15",
+    "amount": 271.0,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0082",
+    "customer_id": "C039",
+    "order_date": "2024-07-05",
+    "amount": 206.92,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0083",
+    "customer_id": "C014",
+    "order_date": "2024-08-04",
+    "amount": 311.64,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0084",
+    "customer_id": "C049",
+    "order_date": "2024-03-25",
+    "amount": 51.95,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0085",
+    "customer_id": "C034",
+    "order_date": "2024-10-03",
+    "amount": 320.68,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0086",
+    "customer_id": "C015",
+    "order_date": "2024-02-25",
+    "amount": 409.38,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0087",
+    "customer_id": "C013",
+    "order_date": "2024-04-02",
+    "amount": 99.47,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0088",
+    "customer_id": "C048",
+    "order_date": "2024-11-11",
+    "amount": 60.32,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0089",
+    "customer_id": "C008",
+    "order_date": "2024-02-16",
+    "amount": 17.56,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0090",
+    "customer_id": "C040",
+    "order_date": "2024-03-09",
+    "amount": 18.64,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0091",
+    "customer_id": "C042",
+    "order_date": "2024-08-17",
+    "amount": 120.83,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0092",
+    "customer_id": "C017",
+    "order_date": "2024-03-31",
+    "amount": 261.68,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0093",
+    "customer_id": "C039",
+    "order_date": "2024-01-28",
+    "amount": 281.98,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0094",
+    "customer_id": "C009",
+    "order_date": "2024-10-07",
+    "amount": 464.69,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0095",
+    "customer_id": "C045",
+    "order_date": "2024-07-29",
+    "amount": 161.93,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0096",
+    "customer_id": "C050",
+    "order_date": "2024-09-28",
+    "amount": 255.92,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0097",
+    "customer_id": "C032",
+    "order_date": "2024-05-10",
+    "amount": 486.89,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0098",
+    "customer_id": "C033",
+    "order_date": "2024-03-30",
+    "amount": 138.18,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0099",
+    "customer_id": "C025",
+    "order_date": "2024-08-31",
+    "amount": 410.25,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0100",
+    "customer_id": "C002",
+    "order_date": "2024-06-06",
+    "amount": 285.73,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0101",
+    "customer_id": "C032",
+    "order_date": "2024-05-29",
+    "amount": 165.54,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0102",
+    "customer_id": "C024",
+    "order_date": "2024-07-09",
+    "amount": 339.7,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0103",
+    "customer_id": "C021",
+    "order_date": "2024-02-25",
+    "amount": 260.34,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0104",
+    "customer_id": "C006",
+    "order_date": "2024-11-03",
+    "amount": 295.91,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0105",
+    "customer_id": "C047",
+    "order_date": "2024-03-12",
+    "amount": 485.04,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0106",
+    "customer_id": "C046",
+    "order_date": "2024-03-01",
+    "amount": 256.23,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0107",
+    "customer_id": "C006",
+    "order_date": "2024-12-26",
+    "amount": 80.04,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0108",
+    "customer_id": "C012",
+    "order_date": "2024-10-05",
+    "amount": 332.87,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0109",
+    "customer_id": "C049",
+    "order_date": "2024-03-30",
+    "amount": 287.75,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0110",
+    "customer_id": "C044",
+    "order_date": "2024-10-10",
+    "amount": 12.92,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0111",
+    "customer_id": "C018",
+    "order_date": "2024-03-23",
+    "amount": 65.63,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0112",
+    "customer_id": "C019",
+    "order_date": "2024-03-23",
+    "amount": 177.45,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0113",
+    "customer_id": "C016",
+    "order_date": "2024-03-08",
+    "amount": 141.39,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0114",
+    "customer_id": "C025",
+    "order_date": "2024-12-19",
+    "amount": 68.0,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0115",
+    "customer_id": "C042",
+    "order_date": "2024-11-20",
+    "amount": 144.48,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0116",
+    "customer_id": "C048",
+    "order_date": "2024-03-16",
+    "amount": 134.42,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0117",
+    "customer_id": "C039",
+    "order_date": "2024-02-06",
+    "amount": 164.21,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0118",
+    "customer_id": "C040",
+    "order_date": "2024-08-24",
+    "amount": 131.03,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0119",
+    "customer_id": "C010",
+    "order_date": "2024-12-14",
+    "amount": 138.18,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0120",
+    "customer_id": "C027",
+    "order_date": "2024-01-16",
+    "amount": 149.07,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0121",
+    "customer_id": "C036",
+    "order_date": "2024-02-28",
+    "amount": 51.95,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0122",
+    "customer_id": "C012",
+    "order_date": "2024-03-31",
+    "amount": 332.6,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0123",
+    "customer_id": "C016",
+    "order_date": "2024-01-21",
+    "amount": 140.48,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0124",
+    "customer_id": "C049",
+    "order_date": "2024-08-01",
+    "amount": 359.99,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0125",
+    "customer_id": "C019",
+    "order_date": "2024-10-02",
+    "amount": 263.96,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0126",
+    "customer_id": "C045",
+    "order_date": "2024-02-20",
+    "amount": 119.68,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0127",
+    "customer_id": "C036",
+    "order_date": "2024-09-19",
+    "amount": 241.78,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0128",
+    "customer_id": "C029",
+    "order_date": "2024-03-28",
+    "amount": 189.93,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0129",
+    "customer_id": "C013",
+    "order_date": "2024-01-06",
+    "amount": 223.83,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0130",
+    "customer_id": "C029",
+    "order_date": "2024-03-23",
+    "amount": 220.89,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0131",
+    "customer_id": "C013",
+    "order_date": "2024-09-03",
+    "amount": 14.31,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0132",
+    "customer_id": "C029",
+    "order_date": "2024-04-02",
+    "amount": 106.62,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0133",
+    "customer_id": "C009",
+    "order_date": "2024-02-19",
+    "amount": 213.96,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0134",
+    "customer_id": "C022",
+    "order_date": "2024-08-08",
+    "amount": 396.56,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0135",
+    "customer_id": "C044",
+    "order_date": "2024-10-05",
+    "amount": 474.5,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0136",
+    "customer_id": "C039",
+    "order_date": "2024-07-31",
+    "amount": 365.42,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0137",
+    "customer_id": "C017",
+    "order_date": "2024-07-20",
+    "amount": 301.32,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0138",
+    "customer_id": "C022",
+    "order_date": "2024-10-12",
+    "amount": 65.78,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0139",
+    "customer_id": "C017",
+    "order_date": "2024-04-12",
+    "amount": 459.08,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0140",
+    "customer_id": "C038",
+    "order_date": "2024-03-08",
+    "amount": 438.27,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0141",
+    "customer_id": "C003",
+    "order_date": "2024-02-08",
+    "amount": 344.48,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0142",
+    "customer_id": "C002",
+    "order_date": "2024-07-02",
+    "amount": 491.24,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0143",
+    "customer_id": "C022",
+    "order_date": "2024-03-26",
+    "amount": 84.14,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0144",
+    "customer_id": "C025",
+    "order_date": "2024-10-29",
+    "amount": 247.62,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0145",
+    "customer_id": "C002",
+    "order_date": "2024-02-25",
+    "amount": 37.1,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0146",
+    "customer_id": "C047",
+    "order_date": "2024-05-10",
+    "amount": 194.43,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0147",
+    "customer_id": "C029",
+    "order_date": "2024-08-21",
+    "amount": 121.62,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0148",
+    "customer_id": "C041",
+    "order_date": "2024-07-28",
+    "amount": 272.63,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0149",
+    "customer_id": "C030",
+    "order_date": "2024-04-22",
+    "amount": 113.08,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0150",
+    "customer_id": "C025",
+    "order_date": "2024-03-18",
+    "amount": 452.29,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0151",
+    "customer_id": "C022",
+    "order_date": "2024-04-24",
+    "amount": 334.74,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0152",
+    "customer_id": "C009",
+    "order_date": "2024-05-31",
+    "amount": 247.8,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0153",
+    "customer_id": "C034",
+    "order_date": "2024-06-07",
+    "amount": 36.5,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0154",
+    "customer_id": "C043",
+    "order_date": "2024-05-18",
+    "amount": 325.19,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0155",
+    "customer_id": "C040",
+    "order_date": "2024-12-02",
+    "amount": 337.06,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0156",
+    "customer_id": "C042",
+    "order_date": "2024-09-02",
+    "amount": 169.69,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0157",
+    "customer_id": "C011",
+    "order_date": "2024-12-21",
+    "amount": 18.88,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0158",
+    "customer_id": "C046",
+    "order_date": "2024-01-06",
+    "amount": 446.7,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0159",
+    "customer_id": "C002",
+    "order_date": "2024-05-11",
+    "amount": 85.4,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0160",
+    "customer_id": "C021",
+    "order_date": "2024-09-26",
+    "amount": 193.82,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0161",
+    "customer_id": "C039",
+    "order_date": "2024-06-14",
+    "amount": 384.14,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0162",
+    "customer_id": "C019",
+    "order_date": "2024-07-09",
+    "amount": 296.27,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0163",
+    "customer_id": "C016",
+    "order_date": "2024-08-15",
+    "amount": 22.38,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0164",
+    "customer_id": "C035",
+    "order_date": "2024-02-20",
+    "amount": 44.65,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0165",
+    "customer_id": "C035",
+    "order_date": "2024-12-15",
+    "amount": 30.91,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0166",
+    "customer_id": "C007",
+    "order_date": "2024-02-20",
+    "amount": 186.02,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0167",
+    "customer_id": "C017",
+    "order_date": "2024-01-17",
+    "amount": 194.32,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0168",
+    "customer_id": "C016",
+    "order_date": "2024-12-05",
+    "amount": 383.96,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0169",
+    "customer_id": "C043",
+    "order_date": "2024-07-24",
+    "amount": 91.28,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0170",
+    "customer_id": "C025",
+    "order_date": "2024-09-20",
+    "amount": 475.35,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0171",
+    "customer_id": "C048",
+    "order_date": "2024-11-28",
+    "amount": 200.0,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0172",
+    "customer_id": "C044",
+    "order_date": "2024-05-24",
+    "amount": 285.61,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0173",
+    "customer_id": "C040",
+    "order_date": "2024-03-09",
+    "amount": 377.72,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0174",
+    "customer_id": "C037",
+    "order_date": "2024-09-10",
+    "amount": 143.19,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0175",
+    "customer_id": "C024",
+    "order_date": "2024-04-04",
+    "amount": 263.82,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0176",
+    "customer_id": "C040",
+    "order_date": "2024-03-03",
+    "amount": 270.63,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0177",
+    "customer_id": "C013",
+    "order_date": "2024-05-06",
+    "amount": 234.45,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0178",
+    "customer_id": "C029",
+    "order_date": "2024-06-13",
+    "amount": 491.69,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0179",
+    "customer_id": "C029",
+    "order_date": "2024-09-26",
+    "amount": 242.3,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0180",
+    "customer_id": "C032",
+    "order_date": "2024-10-20",
+    "amount": 109.84,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0181",
+    "customer_id": "C044",
+    "order_date": "2024-05-12",
+    "amount": 373.3,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0182",
+    "customer_id": "C011",
+    "order_date": "2024-04-27",
+    "amount": 110.91,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0183",
+    "customer_id": "C043",
+    "order_date": "2024-08-27",
+    "amount": 51.94,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0184",
+    "customer_id": "C031",
+    "order_date": "2024-04-26",
+    "amount": 131.39,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0185",
+    "customer_id": "C012",
+    "order_date": "2024-01-01",
+    "amount": 98.73,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0186",
+    "customer_id": "C025",
+    "order_date": "2024-07-09",
+    "amount": 56.57,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0187",
+    "customer_id": "C033",
+    "order_date": "2024-08-17",
+    "amount": 348.34,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0188",
+    "customer_id": "C016",
+    "order_date": "2024-09-18",
+    "amount": 287.15,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0189",
+    "customer_id": "C001",
+    "order_date": "2024-10-19",
+    "amount": 190.14,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0190",
+    "customer_id": "C019",
+    "order_date": "2024-08-23",
+    "amount": 107.19,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0191",
+    "customer_id": "C043",
+    "order_date": "2024-06-05",
+    "amount": 68.4,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0192",
+    "customer_id": "C019",
+    "order_date": "2024-05-17",
+    "amount": 93.86,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0193",
+    "customer_id": "C029",
+    "order_date": "2024-07-07",
+    "amount": 419.66,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0194",
+    "customer_id": "C006",
+    "order_date": "2024-08-21",
+    "amount": 96.43,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0195",
+    "customer_id": "C040",
+    "order_date": "2024-02-06",
+    "amount": 347.8,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0196",
+    "customer_id": "C047",
+    "order_date": "2024-05-13",
+    "amount": 276.97,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0197",
+    "customer_id": "C028",
+    "order_date": "2024-10-08",
+    "amount": 210.38,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0198",
+    "customer_id": "C030",
+    "order_date": "2024-03-25",
+    "amount": 89.74,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0199",
+    "customer_id": "C029",
+    "order_date": "2024-10-08",
+    "amount": 97.14,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0200",
+    "customer_id": "C007",
+    "order_date": "2024-12-09",
+    "amount": 251.72,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0201",
+    "customer_id": "C023",
+    "order_date": "2024-09-08",
+    "amount": 333.31,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0202",
+    "customer_id": "C032",
+    "order_date": "2024-01-01",
+    "amount": 420.28,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0203",
+    "customer_id": "C025",
+    "order_date": "2024-12-11",
+    "amount": 199.66,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0204",
+    "customer_id": "C003",
+    "order_date": "2024-08-03",
+    "amount": 475.83,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0205",
+    "customer_id": "C043",
+    "order_date": "2024-04-19",
+    "amount": 227.78,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0206",
+    "customer_id": "C002",
+    "order_date": "2024-09-06",
+    "amount": 482.26,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0207",
+    "customer_id": "C004",
+    "order_date": "2024-06-18",
+    "amount": 485.74,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0208",
+    "customer_id": "C015",
+    "order_date": "2024-12-27",
+    "amount": 477.46,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0209",
+    "customer_id": "C006",
+    "order_date": "2024-07-20",
+    "amount": 106.31,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0210",
+    "customer_id": "C006",
+    "order_date": "2024-06-24",
+    "amount": 151.75,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0211",
+    "customer_id": "C042",
+    "order_date": "2024-02-06",
+    "amount": 369.47,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0212",
+    "customer_id": "C038",
+    "order_date": "2024-02-20",
+    "amount": 175.39,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0213",
+    "customer_id": "C024",
+    "order_date": "2024-05-27",
+    "amount": 56.36,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0214",
+    "customer_id": "C014",
+    "order_date": "2024-11-24",
+    "amount": 57.37,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0215",
+    "customer_id": "C007",
+    "order_date": "2024-05-19",
+    "amount": 65.1,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0216",
+    "customer_id": "C044",
+    "order_date": "2024-04-13",
+    "amount": 77.15,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0217",
+    "customer_id": "C021",
+    "order_date": "2024-10-08",
+    "amount": 268.81,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0218",
+    "customer_id": "C005",
+    "order_date": "2024-11-30",
+    "amount": 360.31,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0219",
+    "customer_id": "C015",
+    "order_date": "2024-05-23",
+    "amount": 133.93,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0220",
+    "customer_id": "C048",
+    "order_date": "2024-03-29",
+    "amount": 139.03,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0221",
+    "customer_id": "C003",
+    "order_date": "2024-02-04",
+    "amount": 234.51,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0222",
+    "customer_id": "C038",
+    "order_date": "2024-08-04",
+    "amount": 437.0,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0223",
+    "customer_id": "C011",
+    "order_date": "2024-04-23",
+    "amount": 251.38,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0224",
+    "customer_id": "C044",
+    "order_date": "2024-02-06",
+    "amount": 165.9,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0225",
+    "customer_id": "C017",
+    "order_date": "2024-08-02",
+    "amount": 276.92,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0226",
+    "customer_id": "C030",
+    "order_date": "2024-02-24",
+    "amount": 330.12,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0227",
+    "customer_id": "C042",
+    "order_date": "2024-05-20",
+    "amount": 228.0,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0228",
+    "customer_id": "C050",
+    "order_date": "2024-04-28",
+    "amount": 443.21,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0229",
+    "customer_id": "C025",
+    "order_date": "2024-07-28",
+    "amount": 146.4,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0230",
+    "customer_id": "C014",
+    "order_date": "2024-04-24",
+    "amount": 494.68,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0231",
+    "customer_id": "C035",
+    "order_date": "2024-03-27",
+    "amount": 149.28,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0232",
+    "customer_id": "C036",
+    "order_date": "2024-07-03",
+    "amount": 63.13,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0233",
+    "customer_id": "C029",
+    "order_date": "2024-05-21",
+    "amount": 168.24,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0234",
+    "customer_id": "C044",
+    "order_date": "2024-01-09",
+    "amount": 310.07,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0235",
+    "customer_id": "C029",
+    "order_date": "2024-04-10",
+    "amount": 80.69,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0236",
+    "customer_id": "C044",
+    "order_date": "2024-03-03",
+    "amount": 70.54,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0237",
+    "customer_id": "C039",
+    "order_date": "2024-01-28",
+    "amount": 183.84,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0238",
+    "customer_id": "C025",
+    "order_date": "2024-11-05",
+    "amount": 317.58,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0239",
+    "customer_id": "C022",
+    "order_date": "2024-07-28",
+    "amount": 23.01,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0240",
+    "customer_id": "C013",
+    "order_date": "2024-12-04",
+    "amount": 409.62,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0241",
+    "customer_id": "C036",
+    "order_date": "2024-04-02",
+    "amount": 148.96,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0242",
+    "customer_id": "C010",
+    "order_date": "2024-05-14",
+    "amount": 387.89,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0243",
+    "customer_id": "C042",
+    "order_date": "2024-03-04",
+    "amount": 143.75,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0244",
+    "customer_id": "C030",
+    "order_date": "2024-03-05",
+    "amount": 464.31,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0245",
+    "customer_id": "C043",
+    "order_date": "2024-10-29",
+    "amount": 331.02,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0246",
+    "customer_id": "C002",
+    "order_date": "2024-01-30",
+    "amount": 63.69,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0247",
+    "customer_id": "C035",
+    "order_date": "2024-08-11",
+    "amount": 60.42,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0248",
+    "customer_id": "C032",
+    "order_date": "2024-04-22",
+    "amount": 302.87,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0249",
+    "customer_id": "C032",
+    "order_date": "2024-01-25",
+    "amount": 193.16,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0250",
+    "customer_id": "C048",
+    "order_date": "2024-03-08",
+    "amount": 209.36,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0251",
+    "customer_id": "C046",
+    "order_date": "2024-08-12",
+    "amount": 216.89,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0252",
+    "customer_id": "C012",
+    "order_date": "2024-11-07",
+    "amount": 112.11,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0253",
+    "customer_id": "C012",
+    "order_date": "2024-05-01",
+    "amount": 437.18,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0254",
+    "customer_id": "C036",
+    "order_date": "2024-03-26",
+    "amount": 280.35,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0255",
+    "customer_id": "C042",
+    "order_date": "2024-01-23",
+    "amount": 51.27,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0256",
+    "customer_id": "C015",
+    "order_date": "2024-10-04",
+    "amount": 346.47,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0257",
+    "customer_id": "C009",
+    "order_date": "2024-06-18",
+    "amount": 411.4,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0258",
+    "customer_id": "C018",
+    "order_date": "2024-09-11",
+    "amount": 54.67,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0259",
+    "customer_id": "C003",
+    "order_date": "2024-07-14",
+    "amount": 423.23,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0260",
+    "customer_id": "C025",
+    "order_date": "2024-03-23",
+    "amount": 186.87,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0261",
+    "customer_id": "C011",
+    "order_date": "2024-04-18",
+    "amount": 39.49,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0262",
+    "customer_id": "C022",
+    "order_date": "2024-01-27",
+    "amount": 405.93,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0263",
+    "customer_id": "C002",
+    "order_date": "2024-10-07",
+    "amount": 346.45,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0264",
+    "customer_id": "C028",
+    "order_date": "2024-03-26",
+    "amount": 165.29,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0265",
+    "customer_id": "C049",
+    "order_date": "2024-07-22",
+    "amount": 362.95,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0266",
+    "customer_id": "C037",
+    "order_date": "2024-01-26",
+    "amount": 56.46,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0267",
+    "customer_id": "C036",
+    "order_date": "2024-03-27",
+    "amount": 311.96,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0268",
+    "customer_id": "C026",
+    "order_date": "2024-05-13",
+    "amount": 73.45,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0269",
+    "customer_id": "C037",
+    "order_date": "2024-07-24",
+    "amount": 440.53,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0270",
+    "customer_id": "C037",
+    "order_date": "2024-08-05",
+    "amount": 178.19,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0271",
+    "customer_id": "C046",
+    "order_date": "2024-06-29",
+    "amount": 460.91,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0272",
+    "customer_id": "C042",
+    "order_date": "2024-06-01",
+    "amount": 218.07,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0273",
+    "customer_id": "C018",
+    "order_date": "2024-01-12",
+    "amount": 292.32,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0274",
+    "customer_id": "C013",
+    "order_date": "2024-04-03",
+    "amount": 400.68,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0275",
+    "customer_id": "C001",
+    "order_date": "2024-02-26",
+    "amount": 362.64,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0276",
+    "customer_id": "C041",
+    "order_date": "2024-07-05",
+    "amount": 255.26,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0277",
+    "customer_id": "C031",
+    "order_date": "2024-08-12",
+    "amount": 67.94,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0278",
+    "customer_id": "C033",
+    "order_date": "2024-12-30",
+    "amount": 388.14,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0279",
+    "customer_id": "C001",
+    "order_date": "2024-12-30",
+    "amount": 447.51,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0280",
+    "customer_id": "C030",
+    "order_date": "2024-05-27",
+    "amount": 498.51,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0281",
+    "customer_id": "C031",
+    "order_date": "2024-05-03",
+    "amount": 58.16,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0282",
+    "customer_id": "C008",
+    "order_date": "2024-11-23",
+    "amount": 198.89,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0283",
+    "customer_id": "C004",
+    "order_date": "2024-09-03",
+    "amount": 12.97,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0284",
+    "customer_id": "C040",
+    "order_date": "2024-02-19",
+    "amount": 412.61,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0285",
+    "customer_id": "C016",
+    "order_date": "2024-04-25",
+    "amount": 405.5,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0286",
+    "customer_id": "C011",
+    "order_date": "2024-06-02",
+    "amount": 289.77,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0287",
+    "customer_id": "C033",
+    "order_date": "2024-06-11",
+    "amount": 462.81,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0288",
+    "customer_id": "C012",
+    "order_date": "2024-02-04",
+    "amount": 13.02,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0289",
+    "customer_id": "C017",
+    "order_date": "2024-07-10",
+    "amount": 225.05,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0290",
+    "customer_id": "C015",
+    "order_date": "2024-11-22",
+    "amount": 449.05,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0291",
+    "customer_id": "C031",
+    "order_date": "2024-10-24",
+    "amount": 107.01,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0292",
+    "customer_id": "C039",
+    "order_date": "2024-03-10",
+    "amount": 494.07,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0293",
+    "customer_id": "C024",
+    "order_date": "2024-02-01",
+    "amount": 313.71,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0294",
+    "customer_id": "C030",
+    "order_date": "2024-02-11",
+    "amount": 36.91,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0295",
+    "customer_id": "C017",
+    "order_date": "2024-07-06",
+    "amount": 326.32,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0296",
+    "customer_id": "C048",
+    "order_date": "2024-04-07",
+    "amount": 335.32,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0297",
+    "customer_id": "C044",
+    "order_date": "2024-02-08",
+    "amount": 171.14,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0298",
+    "customer_id": "C009",
+    "order_date": "2024-12-30",
+    "amount": 104.69,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0299",
+    "customer_id": "C030",
+    "order_date": "2024-08-12",
+    "amount": 240.61,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0300",
+    "customer_id": "C004",
+    "order_date": "2024-05-26",
+    "amount": 130.65,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0301",
+    "customer_id": "C009",
+    "order_date": "2024-05-31",
+    "amount": 11.47,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0302",
+    "customer_id": "C008",
+    "order_date": "2024-08-09",
+    "amount": 164.37,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0303",
+    "customer_id": "C028",
+    "order_date": "2024-01-19",
+    "amount": 31.3,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0304",
+    "customer_id": "C029",
+    "order_date": "2024-10-23",
+    "amount": 430.24,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0305",
+    "customer_id": "C037",
+    "order_date": "2024-12-26",
+    "amount": 275.45,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0306",
+    "customer_id": "C025",
+    "order_date": "2024-11-26",
+    "amount": 204.18,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0307",
+    "customer_id": "C044",
+    "order_date": "2024-08-04",
+    "amount": 151.36,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0308",
+    "customer_id": "C008",
+    "order_date": "2024-12-19",
+    "amount": 360.07,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0309",
+    "customer_id": "C030",
+    "order_date": "2024-10-12",
+    "amount": 183.25,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0310",
+    "customer_id": "C019",
+    "order_date": "2024-01-19",
+    "amount": 268.33,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0311",
+    "customer_id": "C014",
+    "order_date": "2024-10-05",
+    "amount": 92.37,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0312",
+    "customer_id": "C003",
+    "order_date": "2024-05-04",
+    "amount": 31.19,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0313",
+    "customer_id": "C016",
+    "order_date": "2024-12-05",
+    "amount": 136.92,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0314",
+    "customer_id": "C031",
+    "order_date": "2024-07-04",
+    "amount": 214.19,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0315",
+    "customer_id": "C045",
+    "order_date": "2024-04-17",
+    "amount": 246.89,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0316",
+    "customer_id": "C034",
+    "order_date": "2024-02-17",
+    "amount": 196.83,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0317",
+    "customer_id": "C003",
+    "order_date": "2024-10-05",
+    "amount": 484.28,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0318",
+    "customer_id": "C014",
+    "order_date": "2024-12-07",
+    "amount": 34.69,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0319",
+    "customer_id": "C023",
+    "order_date": "2024-02-17",
+    "amount": 168.8,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0320",
+    "customer_id": "C033",
+    "order_date": "2024-12-11",
+    "amount": 418.63,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0321",
+    "customer_id": "C009",
+    "order_date": "2024-11-01",
+    "amount": 372.8,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0322",
+    "customer_id": "C032",
+    "order_date": "2024-12-30",
+    "amount": 247.1,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0323",
+    "customer_id": "C005",
+    "order_date": "2024-01-28",
+    "amount": 339.37,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0324",
+    "customer_id": "C019",
+    "order_date": "2024-09-30",
+    "amount": 490.34,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0325",
+    "customer_id": "C006",
+    "order_date": "2024-08-11",
+    "amount": 144.77,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0326",
+    "customer_id": "C010",
+    "order_date": "2024-01-09",
+    "amount": 191.4,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0327",
+    "customer_id": "C013",
+    "order_date": "2024-08-08",
+    "amount": 62.25,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0328",
+    "customer_id": "C011",
+    "order_date": "2024-12-03",
+    "amount": 419.64,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0329",
+    "customer_id": "C042",
+    "order_date": "2024-11-08",
+    "amount": 324.71,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0330",
+    "customer_id": "C005",
+    "order_date": "2024-12-20",
+    "amount": 309.02,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0331",
+    "customer_id": "C016",
+    "order_date": "2024-11-11",
+    "amount": 246.14,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0332",
+    "customer_id": "C006",
+    "order_date": "2024-05-14",
+    "amount": 109.27,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0333",
+    "customer_id": "C024",
+    "order_date": "2024-08-31",
+    "amount": 186.36,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0334",
+    "customer_id": "C004",
+    "order_date": "2024-07-18",
+    "amount": 218.11,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0335",
+    "customer_id": "C020",
+    "order_date": "2024-07-03",
+    "amount": 163.68,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0336",
+    "customer_id": "C013",
+    "order_date": "2024-07-09",
+    "amount": 147.68,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0337",
+    "customer_id": "C009",
+    "order_date": "2024-12-23",
+    "amount": 464.94,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0338",
+    "customer_id": "C014",
+    "order_date": "2024-01-30",
+    "amount": 115.83,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0339",
+    "customer_id": "C003",
+    "order_date": "2024-10-18",
+    "amount": 370.17,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0340",
+    "customer_id": "C037",
+    "order_date": "2024-11-23",
+    "amount": 15.35,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0341",
+    "customer_id": "C022",
+    "order_date": "2024-05-26",
+    "amount": 444.73,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0342",
+    "customer_id": "C027",
+    "order_date": "2024-02-16",
+    "amount": 415.13,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0343",
+    "customer_id": "C009",
+    "order_date": "2024-11-20",
+    "amount": 123.43,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0344",
+    "customer_id": "C014",
+    "order_date": "2024-09-29",
+    "amount": 256.39,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0345",
+    "customer_id": "C032",
+    "order_date": "2024-02-24",
+    "amount": 49.48,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0346",
+    "customer_id": "C037",
+    "order_date": "2024-12-17",
+    "amount": 453.98,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0347",
+    "customer_id": "C048",
+    "order_date": "2024-03-10",
+    "amount": 310.56,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0348",
+    "customer_id": "C019",
+    "order_date": "2024-06-10",
+    "amount": 218.09,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0349",
+    "customer_id": "C014",
+    "order_date": "2024-10-14",
+    "amount": 458.29,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0350",
+    "customer_id": "C045",
+    "order_date": "2024-08-08",
+    "amount": 401.93,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0351",
+    "customer_id": "C047",
+    "order_date": "2024-05-30",
+    "amount": 254.48,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0352",
+    "customer_id": "C049",
+    "order_date": "2024-09-13",
+    "amount": 95.45,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0353",
+    "customer_id": "C034",
+    "order_date": "2024-11-02",
+    "amount": 444.18,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0354",
+    "customer_id": "C043",
+    "order_date": "2024-07-01",
+    "amount": 154.82,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0355",
+    "customer_id": "C050",
+    "order_date": "2024-01-07",
+    "amount": 163.55,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0356",
+    "customer_id": "C003",
+    "order_date": "2024-12-02",
+    "amount": 41.43,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0357",
+    "customer_id": "C037",
+    "order_date": "2024-02-13",
+    "amount": 48.8,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0358",
+    "customer_id": "C035",
+    "order_date": "2024-10-30",
+    "amount": 366.29,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0359",
+    "customer_id": "C043",
+    "order_date": "2024-01-04",
+    "amount": 41.18,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0360",
+    "customer_id": "C025",
+    "order_date": "2024-01-19",
+    "amount": 340.8,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0361",
+    "customer_id": "C003",
+    "order_date": "2024-12-21",
+    "amount": 119.83,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0362",
+    "customer_id": "C050",
+    "order_date": "2024-11-06",
+    "amount": 229.13,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0363",
+    "customer_id": "C031",
+    "order_date": "2024-08-18",
+    "amount": 487.46,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0364",
+    "customer_id": "C038",
+    "order_date": "2024-08-02",
+    "amount": 420.76,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0365",
+    "customer_id": "C034",
+    "order_date": "2024-01-25",
+    "amount": 124.41,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0366",
+    "customer_id": "C022",
+    "order_date": "2024-11-15",
+    "amount": 190.9,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0367",
+    "customer_id": "C040",
+    "order_date": "2024-05-28",
+    "amount": 269.25,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0368",
+    "customer_id": "C037",
+    "order_date": "2024-04-08",
+    "amount": 184.94,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0369",
+    "customer_id": "C023",
+    "order_date": "2024-05-14",
+    "amount": 38.99,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0370",
+    "customer_id": "C004",
+    "order_date": "2024-11-18",
+    "amount": 420.26,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0371",
+    "customer_id": "C017",
+    "order_date": "2024-08-18",
+    "amount": 123.97,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0372",
+    "customer_id": "C015",
+    "order_date": "2024-04-17",
+    "amount": 470.11,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0373",
+    "customer_id": "C002",
+    "order_date": "2024-05-16",
+    "amount": 219.08,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0374",
+    "customer_id": "C026",
+    "order_date": "2024-05-12",
+    "amount": 301.1,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0375",
+    "customer_id": "C032",
+    "order_date": "2024-02-20",
+    "amount": 281.82,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0376",
+    "customer_id": "C028",
+    "order_date": "2024-03-18",
+    "amount": 231.76,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0377",
+    "customer_id": "C011",
+    "order_date": "2024-03-12",
+    "amount": 310.13,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0378",
+    "customer_id": "C037",
+    "order_date": "2024-01-01",
+    "amount": 447.88,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0379",
+    "customer_id": "C031",
+    "order_date": "2024-06-20",
+    "amount": 257.23,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0380",
+    "customer_id": "C040",
+    "order_date": "2024-06-24",
+    "amount": 378.8,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0381",
+    "customer_id": "C043",
+    "order_date": "2024-09-07",
+    "amount": 17.84,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0382",
+    "customer_id": "C010",
+    "order_date": "2024-06-09",
+    "amount": 217.53,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0383",
+    "customer_id": "C018",
+    "order_date": "2024-05-15",
+    "amount": 105.5,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0384",
+    "customer_id": "C035",
+    "order_date": "2024-03-30",
+    "amount": 208.1,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0385",
+    "customer_id": "C004",
+    "order_date": "2024-03-02",
+    "amount": 15.14,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0386",
+    "customer_id": "C031",
+    "order_date": "2024-01-07",
+    "amount": 44.67,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0387",
+    "customer_id": "C009",
+    "order_date": "2024-08-24",
+    "amount": 178.89,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0388",
+    "customer_id": "C014",
+    "order_date": "2024-09-16",
+    "amount": 136.86,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0389",
+    "customer_id": "C033",
+    "order_date": "2024-07-20",
+    "amount": 45.16,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0390",
+    "customer_id": "C003",
+    "order_date": "2024-06-12",
+    "amount": 492.13,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0391",
+    "customer_id": "C011",
+    "order_date": "2024-09-11",
+    "amount": 247.31,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0392",
+    "customer_id": "C026",
+    "order_date": "2024-12-18",
+    "amount": 352.03,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0393",
+    "customer_id": "C036",
+    "order_date": "2024-07-01",
+    "amount": 432.83,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0394",
+    "customer_id": "C006",
+    "order_date": "2024-07-16",
+    "amount": 387.37,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0395",
+    "customer_id": "C046",
+    "order_date": "2024-03-14",
+    "amount": 44.69,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0396",
+    "customer_id": "C007",
+    "order_date": "2024-04-23",
+    "amount": 96.0,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0397",
+    "customer_id": "C048",
+    "order_date": "2024-07-05",
+    "amount": 231.83,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0398",
+    "customer_id": "C039",
+    "order_date": "2024-05-23",
+    "amount": 485.09,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0399",
+    "customer_id": "C050",
+    "order_date": "2024-09-22",
+    "amount": 14.13,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0400",
+    "customer_id": "C032",
+    "order_date": "2024-03-30",
+    "amount": 170.24,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0401",
+    "customer_id": "C039",
+    "order_date": "2024-01-15",
+    "amount": 381.01,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0402",
+    "customer_id": "C021",
+    "order_date": "2024-11-27",
+    "amount": 75.37,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0403",
+    "customer_id": "C042",
+    "order_date": "2024-12-02",
+    "amount": 414.93,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0404",
+    "customer_id": "C001",
+    "order_date": "2024-04-05",
+    "amount": 311.6,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0405",
+    "customer_id": "C022",
+    "order_date": "2024-08-22",
+    "amount": 458.53,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0406",
+    "customer_id": "C005",
+    "order_date": "2024-12-19",
+    "amount": 80.9,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0407",
+    "customer_id": "C043",
+    "order_date": "2024-04-07",
+    "amount": 219.79,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0408",
+    "customer_id": "C008",
+    "order_date": "2024-01-31",
+    "amount": 296.21,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0409",
+    "customer_id": "C025",
+    "order_date": "2024-09-01",
+    "amount": 291.03,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0410",
+    "customer_id": "C009",
+    "order_date": "2024-09-10",
+    "amount": 65.23,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0411",
+    "customer_id": "C037",
+    "order_date": "2024-12-17",
+    "amount": 88.92,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0412",
+    "customer_id": "C040",
+    "order_date": "2024-05-06",
+    "amount": 202.78,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0413",
+    "customer_id": "C029",
+    "order_date": "2024-11-15",
+    "amount": 83.3,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0414",
+    "customer_id": "C046",
+    "order_date": "2024-02-14",
+    "amount": 427.26,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0415",
+    "customer_id": "C013",
+    "order_date": "2024-06-22",
+    "amount": 208.44,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0416",
+    "customer_id": "C044",
+    "order_date": "2024-08-08",
+    "amount": 110.54,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0417",
+    "customer_id": "C045",
+    "order_date": "2024-03-17",
+    "amount": 390.82,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0418",
+    "customer_id": "C033",
+    "order_date": "2024-01-02",
+    "amount": 181.51,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0419",
+    "customer_id": "C025",
+    "order_date": "2024-07-22",
+    "amount": 125.72,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0420",
+    "customer_id": "C029",
+    "order_date": "2024-04-07",
+    "amount": 97.64,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0421",
+    "customer_id": "C009",
+    "order_date": "2024-12-19",
+    "amount": 190.52,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0422",
+    "customer_id": "C018",
+    "order_date": "2024-03-23",
+    "amount": 323.15,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0423",
+    "customer_id": "C002",
+    "order_date": "2024-11-05",
+    "amount": 134.29,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0424",
+    "customer_id": "C012",
+    "order_date": "2024-05-24",
+    "amount": 302.61,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0425",
+    "customer_id": "C024",
+    "order_date": "2024-09-07",
+    "amount": 301.76,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0426",
+    "customer_id": "C011",
+    "order_date": "2024-01-18",
+    "amount": 436.2,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0427",
+    "customer_id": "C022",
+    "order_date": "2024-09-06",
+    "amount": 475.08,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0428",
+    "customer_id": "C039",
+    "order_date": "2024-02-29",
+    "amount": 53.02,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0429",
+    "customer_id": "C022",
+    "order_date": "2024-12-13",
+    "amount": 308.02,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0430",
+    "customer_id": "C009",
+    "order_date": "2024-10-21",
+    "amount": 284.16,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0431",
+    "customer_id": "C041",
+    "order_date": "2024-05-29",
+    "amount": 47.29,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0432",
+    "customer_id": "C037",
+    "order_date": "2024-03-25",
+    "amount": 335.09,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0433",
+    "customer_id": "C014",
+    "order_date": "2024-12-16",
+    "amount": 134.56,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0434",
+    "customer_id": "C049",
+    "order_date": "2024-06-28",
+    "amount": 385.15,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0435",
+    "customer_id": "C011",
+    "order_date": "2024-09-24",
+    "amount": 101.19,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0436",
+    "customer_id": "C033",
+    "order_date": "2024-02-15",
+    "amount": 400.73,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0437",
+    "customer_id": "C009",
+    "order_date": "2024-06-14",
+    "amount": 123.42,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0438",
+    "customer_id": "C029",
+    "order_date": "2024-08-06",
+    "amount": 96.53,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0439",
+    "customer_id": "C030",
+    "order_date": "2024-05-07",
+    "amount": 285.72,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0440",
+    "customer_id": "C018",
+    "order_date": "2024-10-05",
+    "amount": 448.28,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0441",
+    "customer_id": "C010",
+    "order_date": "2024-01-05",
+    "amount": 256.91,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0442",
+    "customer_id": "C034",
+    "order_date": "2024-01-08",
+    "amount": 191.84,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0443",
+    "customer_id": "C049",
+    "order_date": "2024-07-22",
+    "amount": 32.82,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0444",
+    "customer_id": "C045",
+    "order_date": "2024-12-23",
+    "amount": 252.47,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0445",
+    "customer_id": "C017",
+    "order_date": "2024-11-02",
+    "amount": 228.66,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0446",
+    "customer_id": "C022",
+    "order_date": "2024-07-27",
+    "amount": 245.43,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0447",
+    "customer_id": "C004",
+    "order_date": "2024-12-12",
+    "amount": 145.83,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0448",
+    "customer_id": "C025",
+    "order_date": "2024-12-19",
+    "amount": 343.25,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0449",
+    "customer_id": "C006",
+    "order_date": "2024-04-22",
+    "amount": 301.23,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0450",
+    "customer_id": "C025",
+    "order_date": "2024-02-05",
+    "amount": 237.82,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0451",
+    "customer_id": "C034",
+    "order_date": "2024-08-26",
+    "amount": 29.07,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0452",
+    "customer_id": "C045",
+    "order_date": "2024-02-25",
+    "amount": 325.04,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0453",
+    "customer_id": "C006",
+    "order_date": "2024-12-06",
+    "amount": 444.3,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0454",
+    "customer_id": "C012",
+    "order_date": "2024-07-05",
+    "amount": 310.78,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0455",
+    "customer_id": "C042",
+    "order_date": "2024-05-18",
+    "amount": 460.02,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0456",
+    "customer_id": "C036",
+    "order_date": "2024-11-03",
+    "amount": 77.16,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0457",
+    "customer_id": "C021",
+    "order_date": "2024-06-18",
+    "amount": 329.72,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0458",
+    "customer_id": "C049",
+    "order_date": "2024-12-14",
+    "amount": 424.49,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0459",
+    "customer_id": "C024",
+    "order_date": "2024-12-24",
+    "amount": 363.06,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0460",
+    "customer_id": "C049",
+    "order_date": "2024-10-29",
+    "amount": 469.74,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0461",
+    "customer_id": "C009",
+    "order_date": "2024-06-05",
+    "amount": 119.8,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0462",
+    "customer_id": "C008",
+    "order_date": "2024-03-20",
+    "amount": 137.5,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0463",
+    "customer_id": "C026",
+    "order_date": "2024-12-19",
+    "amount": 159.89,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0464",
+    "customer_id": "C027",
+    "order_date": "2024-10-28",
+    "amount": 355.64,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0465",
+    "customer_id": "C013",
+    "order_date": "2024-05-16",
+    "amount": 28.26,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0466",
+    "customer_id": "C002",
+    "order_date": "2024-01-08",
+    "amount": 303.54,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0467",
+    "customer_id": "C042",
+    "order_date": "2024-09-11",
+    "amount": 330.79,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0468",
+    "customer_id": "C048",
+    "order_date": "2024-12-12",
+    "amount": 37.85,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0469",
+    "customer_id": "C024",
+    "order_date": "2024-04-07",
+    "amount": 233.64,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0470",
+    "customer_id": "C048",
+    "order_date": "2024-03-30",
+    "amount": 422.72,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0471",
+    "customer_id": "C034",
+    "order_date": "2024-03-19",
+    "amount": 281.97,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0472",
+    "customer_id": "C016",
+    "order_date": "2024-01-25",
+    "amount": 62.33,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0473",
+    "customer_id": "C012",
+    "order_date": "2024-04-15",
+    "amount": 416.54,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0474",
+    "customer_id": "C027",
+    "order_date": "2024-09-20",
+    "amount": 213.09,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0475",
+    "customer_id": "C029",
+    "order_date": "2024-01-01",
+    "amount": 397.66,
+    "product_category": "Clothing"
+  },
+  {
+    "order_id": "ORD0476",
+    "customer_id": "C003",
+    "order_date": "2024-08-02",
+    "amount": 241.16,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0477",
+    "customer_id": "C033",
+    "order_date": "2024-03-07",
+    "amount": 451.79,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0478",
+    "customer_id": "C041",
+    "order_date": "2024-03-23",
+    "amount": 358.54,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0479",
+    "customer_id": "C007",
+    "order_date": "2024-08-03",
+    "amount": 168.52,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0480",
+    "customer_id": "C027",
+    "order_date": "2024-12-27",
+    "amount": 156.25,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0481",
+    "customer_id": "C032",
+    "order_date": "2024-07-10",
+    "amount": 468.45,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0482",
+    "customer_id": "C016",
+    "order_date": "2024-03-01",
+    "amount": 67.02,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0483",
+    "customer_id": "C042",
+    "order_date": "2024-07-23",
+    "amount": 99.36,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0484",
+    "customer_id": "C036",
+    "order_date": "2024-12-12",
+    "amount": 68.34,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0485",
+    "customer_id": "C015",
+    "order_date": "2024-09-27",
+    "amount": 495.15,
+    "product_category": "Toys"
+  },
+  {
+    "order_id": "ORD0486",
+    "customer_id": "C044",
+    "order_date": "2024-11-25",
+    "amount": 455.56,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0487",
+    "customer_id": "C033",
+    "order_date": "2024-05-14",
+    "amount": 282.83,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0488",
+    "customer_id": "C003",
+    "order_date": "2024-02-21",
+    "amount": 233.14,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0489",
+    "customer_id": "C046",
+    "order_date": "2024-03-21",
+    "amount": 375.14,
+    "product_category": "Electronics"
+  },
+  {
+    "order_id": "ORD0490",
+    "customer_id": "C028",
+    "order_date": "2024-12-28",
+    "amount": 36.22,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0491",
+    "customer_id": "C003",
+    "order_date": "2024-06-20",
+    "amount": 97.97,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0492",
+    "customer_id": "C044",
+    "order_date": "2024-10-18",
+    "amount": 190.0,
+    "product_category": "Beauty"
+  },
+  {
+    "order_id": "ORD0493",
+    "customer_id": "C021",
+    "order_date": "2024-10-25",
+    "amount": 355.93,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0494",
+    "customer_id": "C036",
+    "order_date": "2024-09-15",
+    "amount": 460.47,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0495",
+    "customer_id": "C034",
+    "order_date": "2024-05-30",
+    "amount": 231.34,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0496",
+    "customer_id": "C009",
+    "order_date": "2024-09-14",
+    "amount": 62.59,
+    "product_category": "Books"
+  },
+  {
+    "order_id": "ORD0497",
+    "customer_id": "C002",
+    "order_date": "2024-04-26",
+    "amount": 370.04,
+    "product_category": "Sports"
+  },
+  {
+    "order_id": "ORD0498",
+    "customer_id": "C012",
+    "order_date": "2024-11-04",
+    "amount": 336.7,
+    "product_category": "Food"
+  },
+  {
+    "order_id": "ORD0499",
+    "customer_id": "C010",
+    "order_date": "2024-10-13",
+    "amount": 335.31,
+    "product_category": "Home"
+  },
+  {
+    "order_id": "ORD0500",
+    "customer_id": "C011",
+    "order_date": "2024-01-27",
+    "amount": 136.55,
+    "product_category": "Food"
+  }
+]

@@ -1,0 +1,16 @@
+pipeline_name: summary_pipeline
+
+source:
+  input_dir: "data"
+  orders:
+    file: "orders.json"
+    type: "json"
+  customers:
+    file: "customers.txt"
+    type: "txt"
+    delimiter: "|"
+
+destination:
+  output_dir: "output"
+  report_file: "summary_report.csv"
+  type: "csv"
