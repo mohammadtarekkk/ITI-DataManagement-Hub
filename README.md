@@ -1,5 +1,6 @@
 # ITI Data Management Hub
-# If you are/were a Data Management student @ITI, Fork this repo and contribute..
+# If you are/were a Data Management student @ITI, Fork this repo, make your own one, and contribute..
+# Do NOT forget to star the repo.
 
 Welcome to my repository documenting my journey through the **ITI Data Management** diploma. This repository serves as a central hub where I document my personal notes, upload my solutions to the labs, and showcase the various projects I worked on during the diploma. 
 
